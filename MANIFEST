@@ -1,0 +1,25 @@
+lib/MemoryCache.pm
+lib/MemoryCache/Client.pm
+lib/MemoryCache/Client/Request.pm
+lib/MemoryCache/ClientManager.pm
+lib/MemoryCache/Cookie.pm
+lib/MemoryCache/Handler.pm
+lib/MemoryCache/StorageDriver.pm
+lib/MemoryCache/StorageDriver/Static.pm
+lib/MemoryCache/StorageDriver/Static/Constant.pm
+lib/MemoryCache/StorageDriver/StorageMod.pm
+lib/MemoryCache/StorageDriver/StorageMod/Memory.pm
+lib/MemoryCache/StorageDriver/StorageMod/Memory/Table.pm
+lib/MemoryCache/StorageDriver/StorageMod/SQLite.pm
+lib/MemoryCache/Tools.pm
+lib/MemoryCache/WebHandler.pm
+lib/MemoryCache/WebHandler/InterfaceCollector.pm
+lib/MemoryCache/WebHandler/InterfaceCollector/tmpl/footer.tmpl
+lib/MemoryCache/WebHandler/InterfaceCollector/tmpl/header.tmpl
+lib/MemoryCache/WebHandler/InterfaceCollector/Widget.pm
+lib/MemoryCache/WebHandler/InterfaceCollector/Widget/Button.pm
+lib/MemoryCache/WebHandler/InterfaceCollector/Widget/MenuItem.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+MYMETA.json
+MYMETA.yml

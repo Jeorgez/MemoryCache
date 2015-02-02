@@ -1,0 +1,11 @@
+^Makefile
+^blib
+^bin
+^www
+^pm_to_blib
+^interface
+^install\..*
+^t\\*
+^.*\.bak
+^.*\.old
+^.*\.db
